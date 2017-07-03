@@ -1,1 +1,1 @@
-# shiwali developement dev server hello world
+# shiwali development dev server hello world
